@@ -12,7 +12,9 @@ baseurl: '' # the subpath of your site, e.g. /blog
 url: 'NKIAih.github.io' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
 twitter_username: 'twitter_username'
-
+# Disqus
+disqus: True
+disqus_shortname: nkiaih
 # Build settings
 markdown: kramdown
 
